@@ -1,4 +1,0 @@
-Model,Accuracy,F1
-RandomForest,1.0,1.0
-XGBoost,0.9995,0.9995100440960314
-SVM,1.0,1.0
